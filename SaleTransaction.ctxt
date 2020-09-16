@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=SaleTransaction
+comment1.params=
+comment1.target=SaleTransaction()
+comment2.params=saleCode\ totalCost\ item
+comment2.target=SaleTransaction(int,\ double,\ Product[])
+comment3.params=saleCode
+comment3.target=void\ setSalesCode(int)
+comment4.params=
+comment4.target=int\ getSalesCode()
+comment5.params=totalCost
+comment5.target=void\ setTotalCost(double)
+comment6.params=
+comment6.target=double\ getTotalCost()
+comment7.params=item
+comment7.target=void\ setItem(Product[])
+comment8.params=
+comment8.target=Product[]\ getItem()
+comment9.params=buy\ m\ salesCode
+comment9.target=Product[]\ checkOut(Product[],\ int,\ int)
+numComments=10

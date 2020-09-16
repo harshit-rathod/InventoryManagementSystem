@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ProductList
+comment1.params=
+comment1.target=ProductList()
+comment10.params=toDeleted
+comment10.target=void\ removeProductFromCart(int)
+comment11.params=
+comment11.target=Product[]\ getCartProducts()
+comment12.params=productName\ n
+comment12.target=boolean\ validateName(java.lang.String,\ int)
+comment2.params=productsList
+comment2.target=ProductList(Product[])
+comment3.params=prodcutsList
+comment3.target=void\ setProductList(Product[])
+comment4.params=
+comment4.target=Product[]\ getProductList()
+comment5.params=productName\ productDesc\ productPrice\ quantityOnHand\ minimumOrderQuantity\ n
+comment5.target=void\ addProductsToArray(java.lang.String,\ java.lang.String,\ double,\ int,\ int,\ int)
+comment6.params=n
+comment6.target=void\ displayAllProductsInArray(int)
+comment7.params=selected
+comment7.target=Product\ returnSelectedProduct(int)
+comment8.params=m
+comment8.target=void\ displayAllProductsFromCart(int)
+comment9.params=item\ m
+comment9.target=void\ addProductToCart(Product,\ int)
+numComments=13

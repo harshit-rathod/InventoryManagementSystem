@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RandomNumberGenerator
+comment1.params=
+comment1.target=RandomNumberGenerator()
+comment2.params=minNumber\ maxNumber
+comment2.target=RandomNumberGenerator(int,\ int)
+comment3.params=minNumber\ maxNumber
+comment3.target=int\ generateRandomNumber(int,\ int)
+numComments=4

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Sale
+comment1.params=
+comment1.target=Sale()
+comment10.params=m
+comment10.target=int\ deleteProductFromCart(int)
+comment11.params=m
+comment11.target=void\ checkOutProducts(int)
+comment12.params=
+comment12.target=void\ getHelp()
+comment2.params=prodList\ transaction
+comment2.target=Sale(ProductList,\ SaleTransaction)
+comment3.params=prodList
+comment3.target=void\ setProductList(ProductList)
+comment4.params=
+comment4.target=ProductList\ getProductList()
+comment5.params=transaction
+comment5.target=void\ setSaleTransaction(SaleTransaction)
+comment6.params=
+comment6.target=SaleTransaction\ getSaleTransaction()
+comment7.params=
+comment7.target=void\ Shopping()
+comment8.params=n
+comment8.target=void\ registerProduct(int)
+comment9.params=m\ n
+comment9.target=void\ additionProductToCart(int,\ int)
+numComments=13
